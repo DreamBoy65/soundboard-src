@@ -1,9 +1,6 @@
 {
-  "devDependencies": {
-    "typescript": "^5.4.5"
-  },
   "name": "soundboard-src",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a sounboard files package",
   "main": "src/index.ts",
   "scripts": {
@@ -29,7 +26,6 @@
   "homepage": "https://github.com/DreamBoy65/soundboard-src#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "path": "^0.12.7",
-    "url": "^0.11.3"
+    "path": "^0.12.7"
   }
 }
