@@ -3,15 +3,10 @@
   <a href="https://discord.com/invite/zMpN575jyD"> <img src="https://img.shields.io/badge/Server-Invite-brightgreen" href="">
   </a>
   
-  <style type="text/css" media="all">
-    .soundHead  {
-      text-align: center;
-    }
-  </style>
 <br /><br />
 
 # About
-A soundboard files package with 60+ sounds files!
+A soundboard files package with 100+ sounds files!
 <br /><br />
 
 # Start
@@ -144,4 +139,4 @@ let allSounds = await All() // array of all sounds
 + you-what-spongebob.mp3
 
 # Date 
-Fri Apr 19 2024 05:36:14 GMT+0530 (India Standard Time)
+Fri Apr 19 2024 05:43:26 GMT+0530 (India Standard Time)

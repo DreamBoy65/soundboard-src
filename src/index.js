@@ -31,7 +31,5 @@ module.exports.All = async function () {
             sounds: catSounds
         });
     }
-
-    console.log(res);
     return res;
 };
