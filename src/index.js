@@ -22,7 +22,7 @@ module.exports.All = async function () {
         for (const sound of sounds.filter(c => c.split(".")[1] === "mp3")) {
             catSounds.push({
                 path: join(__dirname, `../files/${cat}/${sound}`),
-                name: sound
+                name: sound.split(".")[0]
             });
         }
 
